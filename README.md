@@ -6,11 +6,5 @@ I'm a student currently studying Computer Science, interested in Algorithms and 
 - 🌱 I'm currently learning: Degree of human traits AI portraits.
 - 📫 How to reach me: yanpinglam.official@gmail.com
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-lamb-mission&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-lamb-mission&layout=compact)
-
----
 
 ⭐️ From [the-lamb-mission](https://github.com/the-lamb-mission)
